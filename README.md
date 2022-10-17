@@ -19,18 +19,3 @@ Students are often worried about their chances of admission to University. The a
 - KESAVADEVI T [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-37700-1660318565/tree/main/Assignment/Team%20Member%202-Madhan%20Prakash)
 - AKSHAYA G R        [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-37700-1660318565/tree/main/Assignment/Team%20Member%203-%20Vignesh%20S)
 
-
-# PROJECT DESIGN & PLANNING
-
-## IDEATION PHASE
-
-- [x] Literature Survey [Click me](https://github.com/IBM-EPBL/IBM-Project-37700-1660318565/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Literature%20Survey.pdf)
-- [x] Problem Statement [Click me](https://github.com/IBM-EPBL/IBM-Project-37700-1660318565/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Problem%20Statement.pdf)
-- [x] Empathy Map [Click me](https://github.com/IBM-EPBL/IBM-Project-37700-1660318565/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Empathy%20Map%20Canvas.pdf)
-- [x] Brainstorm [Click me](https://github.com/IBM-EPBL/IBM-Project-37700-1660318565/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Brainstorming-Ideas.pdf)
-
-## PROJECT DESIGN PHASE 1
-
-- [x] Proposed Solution [Click me](https://github.com/IBM-EPBL/IBM-Project-37700-1660318565/blob/main/Project%20Design%20&%20Planning/Project%20Design%20Phase%201/Proposed%20Solution.pdf)
-- [x] Problem Solution Fit [Click me](https://github.com/IBM-EPBL/IBM-Project-37700-1660318565/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%201/Solution%20Fit.pdf)
-- [x] Solution Architecture [Click me](https://github.com/IBM-EPBL/IBM-Project-37700-1660318565/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%201/Solution_Architecture.pdf)
